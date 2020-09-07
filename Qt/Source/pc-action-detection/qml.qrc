@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Images/server_off.png</file>
+        <file>Images/server_on.png</file>
+        <file>Images/ips.png</file>
+        <file>Images/folder.svg</file>
+        <file>Images/action/action_center.png</file>
+        <file>Images/action/action_down_off.png</file>
+        <file>Images/action/action_down_on.png</file>
+        <file>Images/action/action_left_off.png</file>
+        <file>Images/action/action_left_on.png</file>
+        <file>Images/action/action_right_off.png</file>
+        <file>Images/action/action_right_on.png</file>
+        <file>Images/action/action_up_off.png</file>
+        <file>Images/action/action_up_on.png</file>
+    </qresource>
+</RCC>

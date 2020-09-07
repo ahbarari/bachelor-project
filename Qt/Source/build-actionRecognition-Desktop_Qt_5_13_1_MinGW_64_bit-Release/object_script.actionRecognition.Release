@@ -1,0 +1,10 @@
+release/connect2py.o
+release/main.o
+release/mythread.o
+release/server.o
+release/qrc_qml_qmlcache.o
+release/main_qml.o
+release/qmlcache_loader.o
+release/moc_connect2py.o
+release/moc_mythread.o
+release/moc_server.o

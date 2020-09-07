@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="Images/server_off.png">../pc-action-detection/Images/server_off.png</file>
+        <file alias="Images/server_on.png">../pc-action-detection/Images/server_on.png</file>
+        <file alias="Images/ips.png">../pc-action-detection/Images/ips.png</file>
+        <file alias="Images/folder.svg">../pc-action-detection/Images/folder.svg</file>
+        <file alias="Images/action/action_center.png">../pc-action-detection/Images/action/action_center.png</file>
+        <file alias="Images/action/action_down_off.png">../pc-action-detection/Images/action/action_down_off.png</file>
+        <file alias="Images/action/action_down_on.png">../pc-action-detection/Images/action/action_down_on.png</file>
+        <file alias="Images/action/action_left_off.png">../pc-action-detection/Images/action/action_left_off.png</file>
+        <file alias="Images/action/action_left_on.png">../pc-action-detection/Images/action/action_left_on.png</file>
+        <file alias="Images/action/action_right_off.png">../pc-action-detection/Images/action/action_right_off.png</file>
+        <file alias="Images/action/action_right_on.png">../pc-action-detection/Images/action/action_right_on.png</file>
+        <file alias="Images/action/action_up_off.png">../pc-action-detection/Images/action/action_up_off.png</file>
+        <file alias="Images/action/action_up_on.png">../pc-action-detection/Images/action/action_up_on.png</file>
+    </qresource>
+</RCC>
